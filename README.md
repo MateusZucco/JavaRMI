@@ -10,7 +10,7 @@ To run this code in the development mode, you'll need to have a environment with
 
 ```
 $ git clone https://github.com/MateusZucco/AcademyApi.git
-$ cd JavaRMI/RMI
+$ cd JavaRMI/src
 ```
 
 **Compiling files**
@@ -24,7 +24,6 @@ $ javac *.java
 With all files compiled, you can now run the server:
 
 ```
-$ cd src
 $ cd java Service.java
 ```
 
@@ -33,6 +32,5 @@ $ cd java Service.java
 With all files compiled, you can now run the client:
 
 ```
-$ cd src
 $ cd java Client.java
 ```
